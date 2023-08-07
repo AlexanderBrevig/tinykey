@@ -1,0 +1,5 @@
+Default	True	2.0	3
+POWER	True	2.0	3
+SPI	True	2.0	3
+USB	False	2.0	3
+True	True	False

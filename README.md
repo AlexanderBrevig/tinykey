@@ -53,3 +53,17 @@ So, for me to type out `1337` it would be:
 ```
 
 I will post my complete keymap when it's ready.
+
+## Taking it further
+
+We could also realize five keys by using timing and only two keys.
+
+```
+◐ ◑
+A S   D  F   G
+◐ ◑-◐ ◑◐ ◐-◑ ◑
+```
+
+S and F has a roll, while D is _at the same time_ (within a confurable Δt ms).
+
+Will try to play with this as well, and thus getting the layout down to 10 keys total.

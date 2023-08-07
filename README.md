@@ -59,7 +59,6 @@ I will post my complete keymap when it's ready.
 We could also realize five keys by using timing and only two keys.
 
 ```
-◐ ◑
 A S   D  F   G
 ◐ ◑-◐ ◑◐ ◐-◑ ◑
 ```

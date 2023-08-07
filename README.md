@@ -1,5 +1,7 @@
 # tinykey
 
+![tinykey design](img/tinykey.png)
+
 A project just for fun, to see if I can type on it.
 
 ## The rough idea

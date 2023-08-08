@@ -60,7 +60,7 @@ We could also realize five keys by using timing and only two keys.
 
 ```
 A S   D  F   G
-◐ ◑-◐ ◑◐ ◐-◑ ◑
+◐ ◐-◑ ◑◐ ◑-◐ ◑
 ```
 
 S and F has a roll, while D is _at the same time_ (within a confurable Δt ms).
